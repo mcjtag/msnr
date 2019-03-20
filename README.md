@@ -1,5 +1,5 @@
 # msnr
-Signal-to-Noise Calculation written in Matlab scripting language.
+SNR (Signal-to-Noise Ratio) calculation written in Matlab scripting language.
 Matlab-like implementation.
 Excludes the aliased harmonics.
 
